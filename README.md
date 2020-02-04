@@ -8,7 +8,7 @@ Websites:
 
 * [粵典](https://words.hk/)
 * [Hong Kong Cantonese Corpus (HKCanCor)](http://compling.hss.ntu.edu.sg/hkcancor/)
-* [粵文維基百科](https://zh-yue.wikipedia.org/wiki/%E9%A0%AD%E7%89%88)
+* 粵文維基百科：[網站](https://zh-yue.wikipedia.org/wiki/%E9%A0%AD%E7%89%88)，[資料](https://dumps.wikimedia.org/zh_yuewiki/)
 
 GitHub repositories:
 
