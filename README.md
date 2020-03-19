@@ -1,4 +1,4 @@
-# 粵文語料
+# awesome-cantonese-nlp
 
 This repository:
 
@@ -21,8 +21,12 @@ Papers:
 * [MYCanCor: A Video Corpus of spoken Malaysian Cantonese](https://www.aclweb.org/anthology/L18-1122.pdf)
 * [深圳粵語語料庫與相關研究](https://repository.eduhk.hk/en/publications/%E6%B7%B1%E5%9C%B3%E7%B2%B5%E8%AA%9E%E8%AA%9E%E6%96%99%E5%BA%AB%E8%88%87%E7%9B%B8%E9%97%9C%E7%A0%94%E7%A9%B6)
 
+Segmentation:
+
+* [Cantonese Word Segmentation](https://github.com/wchan757/Cantonese_Word_Segmentation)
+* [粤语分词工具 (g-traveller/cantonese-corpus)](https://github.com/g-traveller/cantonese-corpus)
+
 Other resources:
 
-* [粤语分词工具 (g-traveller/cantonese-corpus)](https://github.com/g-traveller/cantonese-corpus)
 * [Cantonese Plus](http://cantoneseplus.com/)
 * [PyCantonese](http://pycantonese.org/)
