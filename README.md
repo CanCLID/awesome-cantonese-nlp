@@ -15,6 +15,7 @@ GitHub repositories:
 * Hong Kong Cantonese Corpus (HKCanCor) 香港粵語語料庫 [fcbond/hkcancor](https://github.com/fcbond/hkcancor)
 * 《香港二十世紀中期粵語語料庫》打包器 [indiejoseph/hkcc-corpus](https://github.com/indiejoseph/hkcc-corpus)
 * 粵語/廣東話參考資料 Reference Materials for Yue / Cantonese [wordshk/yue_references](https://github.com/wordshk/yue_references)
+* Simple statistical detector for Hong Kongese/Standard Chinese/English languages. [toastynews/hongkongese-identifier](https://github.com/toastynews/hongkongese-identifier)
 
 Papers:
 
