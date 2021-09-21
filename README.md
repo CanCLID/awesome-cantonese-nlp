@@ -13,10 +13,10 @@
 
 ## 工具 Tools
 
-| 名 Name     | 描述 Description                                                     | 許可證 Licence | 連結 Link                                                            |
+| 名 Name     | 描述 Description                                                     | 許可證 License | 連結 Link                                                            |
 | ----------- | -------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------- |
 | Cifu        | A frequency lexicon for Hong Kong Cantonese                          | GPL-3.0        | [gwinterstein/Cifu](https://github.com/gwinterstein/Cifu)            |
-| ToJyutping  | 粵語拼音自動標註工具 Cantonese Pronunciation Automatic Labeling Tool | MIT            | [ToJyutping](https://github.com/CanCLID/ToJyutping)                  |
+| ToJyutping  | 粵語拼音自動標註工具 Cantonese Pronunciation Automatic Labeling Tool | CC-BY-4.0 License            | [ToJyutping](https://github.com/CanCLID/ToJyutping)                  |
 | PyCantonese | Cantonese Linguistics and NLP in Python                              | MIT            | [jacksonlee/pycantonese](https://github.com/jacksonllee/pycantonese) |
 
 
