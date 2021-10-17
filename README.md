@@ -5,20 +5,32 @@
 
 ## 語料庫 Corpus
 
-| 名 Name                                                   | 描述 Description | 大細 Size | 許可證 Licence | 連結 Link                                                                                                                                                     |
-| --------------------------------------------------------- | ---------------- | --------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hong Kong Cantonese Corpus (HKCanCor) <br/>香港粵語語料庫 |                  |           |                | [Hong Kong Cantonese Corpus (HKCanCor) 香港粵語語料庫](http://compling.hss.ntu.edu.sg/hkcancor/) </br>[fcbond/hkcancor](https://github.com/fcbond/hkcancor)   |
-| 香港二十世紀中期語料庫                                    |                  |           |                | [《香港二十世紀中期語料庫》](https://hkcc.eduhk.hk/v1/introduction.html) <br/> [《香港二十世紀中期語料庫》打包器](https://github.com/indiejoseph/hkcc-corpus) |
-| Malaysia Cantonese Corpus (MYCanCor) 馬來西亞粵語語料庫   |                  |           |                | [liesenf/MYCanCor](https://github.com/liesenf/MYCanCor)                                                                                                      |
+| 名 Name | 大細 Size | 許可證 Licence | 連結 Link |
+| - | - | - | - |
+| 香港粵語語料庫<br/>Hong Kong Cantonese Corpus (HKCanCor) | | | [Hong Kong Cantonese Corpus (HKCanCor) 香港粵語語料庫](http://compling.hss.ntu.edu.sg/hkcancor/) </br>[fcbond/hkcancor](https://github.com/fcbond/hkcancor) |
+| 馬來西亞粵語語料庫<br/>Malaysia Cantonese Corpus (MYCanCor) | | | [liesenf/MYCanCor](https://github.com/liesenf/MYCanCor) |
+| Database of the 19th Century (1865-1894) Cantonese Christian Writings<br>十九世紀中後期（1865-1894）粵語基督教典籍資料庫 | | | <https://www.polyu.edu.hk/cbs/hkchristdb/> |
+| 早期粵語口語文獻資料庫 | | | <http://database.shss.ust.hk/Candbase/> |
+| 早期粵語標註語料庫 | | | <http://database.shss.ust.hk/Cantag/> |
+| 早期粵語標註語料庫 | | | <http://database.shss.ust.hk/Cantag/> |
+| 香港二十世紀中期語料庫 | | | [《香港二十世紀中期語料庫》](https://hkcc.eduhk.hk/v1/introduction.html)<br/>[《香港二十世紀中期語料庫》打包器](https://github.com/indiejoseph/hkcc-corpus) |
+| 早期漢語方言文獻資料庫<br>Database of Early Chinese Dialects | | | <http://database.shss.ust.hk/5dialects/index.html> |
+| 早期粵語聖經資料庫<br>The Early Cantonese Bible Database | | | <https://corpus.eduhk.hk/cantobible/> |
+| LIHKG Scraper | | | [ayaka14732/lihkg-scraper](https://github.com/ayaka14732/lihkg-scraper) |
 
 ## 工具 Tools
 
-| 名 Name     | 描述 Description                                                     | 許可證 License | 連結 Link                                                            |
-| ----------- | -------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------- |
-| Cifu        | A frequency lexicon for Hong Kong Cantonese                          | GPL-3.0        | [gwinterstein/Cifu](https://github.com/gwinterstein/Cifu)            |
-| ToJyutping  | 粵語拼音自動標註工具 Cantonese Pronunciation Automatic Labeling Tool | CC-BY-4.0 License            | [ToJyutping](https://github.com/CanCLID/ToJyutping)                  |
-| PyCantonese | Cantonese Linguistics and NLP in Python                              | MIT            | [jacksonlee/pycantonese](https://github.com/jacksonllee/pycantonese) |
+| 名 Name | 描述 Description | 許可證 License | 連結 Link |
+| - | - | - | - |
+| Cifu | A frequency lexicon for Hong Kong Cantonese | GPL-3.0 | [gwinterstein/Cifu](https://github.com/gwinterstein/Cifu)            |
+| ToJyutping | 粵語拼音自動標註工具 Cantonese Pronunciation Automatic Labeling Tool | CC-BY-4.0 License | [ToJyutping](https://github.com/CanCLID/ToJyutping) |
+| PyCantonese | Cantonese Linguistics and NLP in Python | MIT | [jacksonlee/pycantonese](https://github.com/jacksonllee/pycantonese) |
 
+## API
+
+| 名 Name | 描述 Description | 連結 Link |
+| - | - | - |
+| 百度翻譯 API | 支援粵語 | <https://fanyi-api.baidu.com/> |
 
 ## 實用連結 Useful links
 
